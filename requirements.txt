@@ -1,0 +1,8 @@
+
+mpld3
+plotly
+scipy
+matplotlib
+numpy
+pandas
+ipykernel
