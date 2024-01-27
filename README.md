@@ -10,7 +10,7 @@ Simple instructions [here](https://www.linkedin.com/pulse/enhance-your-powerpoin
 1. enabling the Web Viewer add-in in ppt
 2. putting the content on a public site. GitHub is easiest, as it is easy to upload and easy to serve content in different ways.
 
-Easiest way to get the plot online: upload to GH, select raw, replace `githubusercontent` with `githack` in URL. [Example](https://raw.githack.com/rlanzafame/visualizations/main/html_examples/top_bottom_bed.html)
+Easiest way to get the plot online: upload to GH, select raw, replace `githubusercontent` with `githack` in URL. [Example here](https://raw.githack.com/rlanzafame/visualizations/main/html_examples/top_bottom_bed.html). This is the link that goes into the Web Viewer add-in on ppt.
 
 When using these visualizations something starts OpenJDK (open source Java, not JavaScript...not sure why), which eats up tons of memory. Hmmmm...
 
