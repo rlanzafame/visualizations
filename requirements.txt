@@ -6,3 +6,6 @@ matplotlib
 numpy
 pandas
 ipykernel
+pyopenssl
+twisted
+zope
