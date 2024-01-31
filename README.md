@@ -57,6 +57,9 @@ openssl req -x509 -newkey rsa:2048 -keyout key.pem -out cert.pem -days 365
 
 followed by username/password: `test/test`, then `NL` and `.` (blank) for the rest.
 
+
+At some point I took the cert files and combined them, based on one of the instructions below (SX?)
+
 Recreated environment (note that `pyopenssl` is the PyPI namespace for OpenSSL). Still a lot of dependency issues:
 - some packages had conflicts from `requirements.txt` setup (but some version was still there)
 - had to install things like `zope`, `twisted`
